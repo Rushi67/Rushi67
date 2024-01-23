@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rushi_6_7" target="blank"><img src="https://img.shields.io/twitter/follow/rushi_6_7?logo=twitter&style=for-the-badge" alt="rushi_6_7" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **somvanshihrishikesh7@gmail.com**
 
